@@ -84,20 +84,6 @@ Future Enhancements
 🔹 Experiment with Time Series Forecasting (ARIMA, LSTM) for more advanced predictions.
 🔹 Develop an interactive dashboard for real-time sales monitoring.
 
-Walmart Sales Demand Forecasting: Actual vs. Predicted Sales
-Project Overview
-
-This project applies Linear Regression to forecast Walmart's sales demand and compares the predicted values with actual sales data. The goal is to assess the model’s accuracy and provide data-driven insights for inventory management, pricing strategies, and business planning.
-
-📊 Actual vs. Predicted Sales: Key Comparisons
-Date	Actual Sales (units)	Predicted Sales (units)	Error (%)
-March 15	1,038,200	1,035,792	0.23%
-April 20	1,045,500	1,041,030	0.43%
-May 25	1,029,800	1,026,152	0.35%
-Findings:
-✔ The model successfully captures seasonal trends and demand fluctuations.
-✔ Predictions are within a 0.5% error margin, indicating strong accuracy.
-✔ Slight deviations occur due to external factors like promotions and special events.
 
 🔍 Sales Pattern Analysis
 Peak Demand: Sales spike in Q4 (October–December) due to holiday shopping.
